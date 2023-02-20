@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/mac_1/static/css/main.b2f816fa.css",
+    "main.js": "/mac_1/static/js/main.fd6258a6.js",
+    "static/media/img1.jpeg": "/mac_1/static/media/img1.db212493cefffcb86f3a.jpeg",
+    "index.html": "/mac_1/index.html",
+    "main.b2f816fa.css.map": "/mac_1/static/css/main.b2f816fa.css.map",
+    "main.fd6258a6.js.map": "/mac_1/static/js/main.fd6258a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2f816fa.css",
+    "static/js/main.fd6258a6.js"
+  ]
+}
