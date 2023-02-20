@@ -75,12 +75,14 @@
 .schedule-li1 {
     list-style: none;
     padding: 5px;
+    cursor: pointer;
 }
 .schedule-li2 {
     list-style: none;
     padding: 5px;
     border-radius: 4px;
     color: #514f4f;
+    cursor: pointer;
      background-color: white;
 }
 .schedule-item-container{
@@ -191,3 +193,18 @@ padding: 2px;
     color:#3156C8;
 ;
 }
+/* @media(max-width : 1150px){
+    .schedule-item-container{
+    
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+.date h1 {
+    
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 17px;
+    color: #242831;
+}
+} */

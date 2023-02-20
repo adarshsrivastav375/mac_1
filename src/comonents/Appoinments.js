@@ -6,13 +6,13 @@ function Appoinments() {
     <div className='amt-container'>
       <ul className='amt-ul-item'>
         <li className='amt-li-item1'>
-          <a href="">Upcomming Appoinment</a> 
+          <a href='/'>Upcomming Appoinment</a> 
         </li>
         <li className='amt-li-item'>
-          <a href="">Past Appoinment</a> 
+          <a href="/">Past Appoinment</a> 
         </li>
         <li className='amt-li-item'>
-          <a href="">Medical Records</a> 
+          <a href="/">Medical Records</a> 
         </li>
       </ul> 
       <div className='schedule-container'>
