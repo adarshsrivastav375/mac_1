@@ -12,13 +12,6 @@ const Home = () => {
       <Sidebar>
        <Routes>
         <Route path="/"element={<Home/>}/>
-        {/* <Route path="/new"element={<New/>}/>
-        <Route path="/patient"element={<Patient/>}/>
-        <Route path="/folder"element={<Folder/>}/>
-        <Route path="/upload"element={<Upload/>}/>
-        <Route path="/report"element={<Report/>}/>
-        <Route path="/setting"element={<Setting/>}/>
-        <Route path="/logout"element={<Logout/>}/> */}
       </Routes>
       </Sidebar>
       </Router>
